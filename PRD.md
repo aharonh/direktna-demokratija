@@ -44,6 +44,9 @@ Ovaj dokument sadrži sumirane zahteve i ideje iznete u okviru diskusije na Disc
 - "Direktna Demokratija"
 - "Stranka Studenata"
 - "Res publica – javna stvar"
+- "Agora"
+- "Stranka Programera"
+- "Svi u zborove"
 
 ## 10. Sledeći koraci
 - Prikupljanje dodatnih predloga za naziv stranke.
