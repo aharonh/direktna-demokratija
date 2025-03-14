@@ -21,14 +21,15 @@ Ovaj repo namenjen je zajedničkom razvoju tehnološkog rešenja za elektronsko 
 1. Pročitajte [PRD.md](PRD.md).
 2. Predložite nove ideje ili komentarišite postojeće zahteve.
 3. Otvorite issue za predloge ili pitanja.
-4. Pokrenite ili se pridružite diskusijama.
+4. Pokrenite ili se pridružite diskusijama na Discord kanalu.
 
 ## Sledeći koraci:
 
-- Završiti diskusiju oko odabira radnog naziva stranke.
-- Definisati tehnologije i pristupe implementaciji.
+- Završiti diskusiju oko odabira radnog naziva stranke - [RADNI-NAZIV.md](RADNI-NAZIV.md).
+- Definisati konačne zahteve sistema - [PRD.md](PRD.md).
+- Definisati tehnologije i pristupe implementaciji - [TEHNOLOGIJE.md](TEHNOLOGIJE.md).
 - Formirati radne grupe za tehničku implementaciju i testiranje.
 
 ## Licenca
 
-Ovaj projekat je open-source i dostupan zajednici za korišćenje, modifikaciju i unapređenje.
+Ovaj projekat je open-source i dostupan zajednici za korišćenje, modifikaciju i unapređenje. Licencu možete pronaći u [LICENCA.md](LICENCA.md) fajlu i na engleskom jeziku u [LICENSE.md](LICENSE.md) fajlu.

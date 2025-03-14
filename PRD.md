@@ -1,14 +1,16 @@
 # Dokument zahteva - Sistem elektronskog glasanja i direktne demokratije
 
+**Ovaj dokument je radna verzija i otvoren je za dodatne sugestije i promene.**
+
 Ovaj dokument sadrži sumirane zahteve i ideje iznete u okviru diskusije na Discord serveru IT Srbija u vezi sa elektronskim glasanjem i implementacijom direktne demokratije kroz postojeći izborni sistem u Srbiji.
 
 ## 1. Opšti zahtevi
 - Sistem treba da omogući direktno demokratsko odlučivanje unutar postojeće zakonske regulative (bez potrebe za izmenom zakona).
-- Primena sistema kroz osnivanje specijalizovane političke stranke koja statutom reguliše obavezno glasanje predstavnika prema odluci članova.
+- Primena sistema kroz osnivanje specijalizovane političke stranke koja statutom reguliše obavezno glasanje predstavnika u skupštini prema odluci članova.
 
 ## 2. Zahtevi za sigurnost i transparentnost
 - Implementacija zero-trust principa glasanja (niko nema privilegovan pristup podacima).
-- Upotreba blockchain tehnologije za čuvanje glasova kako bi se garantovala transparentnost i nemogućnost izmene rezultata.
+- Zagarantovana transparentnost i nemogućnost izmene rezultata.
 - Sistem mora biti open-source (kako bi se mogao nezavisno proveriti).
 - „Receipt-free“ glasanje: onemogućavanje generisanja dokaza glasačke namere pojedincima (sprečavanje prinude i trgovine glasovima).
 
@@ -39,19 +41,4 @@ Ovaj dokument sadrži sumirane zahteve i ideje iznete u okviru diskusije na Disc
 - Platforma mora imati visok nivo zaštite od cyber-napada.
 - Mora se sprečiti mogućnost dokazivanja glasanja trećoj strani nakon glasanja.
 - Obezbeđenje fizičke infrastrukture koja garantuje sigurnost uređaja i procesa.
-
-## 9. Predlozi za naziv stranke (do sada izneti)
-- "Direktna Demokratija"
-- "Stranka Studenata"
-- "Res publica – javna stvar"
-- "Agora"
-- "Stranka Programera"
-- "Svi u zborove"
-
-## 10. Sledeći koraci
-- Prikupljanje dodatnih predloga za naziv stranke.
-- Glasanje zajednice o konačnom radnom nazivu.
-- Formiranje radnih grupa za tehničku realizaciju predloženog sistema.
-
-Ovaj dokument je radna verzija i otvoren je za dodatne sugestije i promene.
 
