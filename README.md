@@ -4,7 +4,10 @@ Ovaj repo namenjen je zajedničkom razvoju tehnološkog rešenja za elektronsko 
 
 ## Kako se priključiti:
 
-1. Pridružite se Discord serveru IT Srbija: [https://discord.gg/it-srbija](https://discord.gg/it-srbija) (kanal #politika-izbori-direktna-demokratija).
+1. Pridružite se Discord serveru IT Srbija: [https://discord.gg/it-srbija](https://discord.gg/it-srbija).
+2. Pridružite se diskusijama na Discord kanalu **#politika-izbori-direktna-demokratija**
+3. Pošaljite Pull Request sa vašim predlozima i idejama.
+4. Otvorite issue za pitanja i diskusije.
 
 ## Sadržaj repozitorijuma:
 
