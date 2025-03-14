@@ -79,3 +79,27 @@ Komentari protiv predloga su bili:
 
 Komentari za predlog su bili:
 nije bilo komentara za ovaj predlog
+
+## Predlozi pristigli nakon otvaranja glasanja
+
+Predlozi koji su pristigli nakon otvaranja glasanja za radni naziv stranke će biti uzeti u obzir u glasanju za konačni naziv stranke koje će biti implementirano pomoću samog sistema koji razvijamo.
+
+- "Saborna Srpska Stranka"
+- "Stranka Neposredne Demokratije"
+
+### Saborna Srpska Stranka
+
+Komentari protiv predloga su bili:
+- Dodavanjem slova "S" u akronimu naziva stranke može biti dovoljno da se ne dovede u vezu sa negativnim istorijskim organizacijama
+
+Komentari za predlog su bili:
+- Saborna Srpska Stranka je dobar naziv jer je saborna reč koja označava narodno predstavništvo
+
+### Stranka Neposredne Demokratije
+
+Komentari protiv predloga su bili:
+nije bilo komentara za ovaj predlog
+
+Komentari za predlog su bili:
+- Stranka Neposredne Demokratije je dobar naziv jer jasno definiše cilj stranke
+- SNP je dobar akronim
