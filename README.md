@@ -9,6 +9,9 @@ Ovaj repo namenjen je zajedničkom razvoju tehnološkog rešenja za elektronsko 
 ## Sadržaj repozitorijuma:
 
 - **[PRD.md](PRD.md)** – Product Requirements Document (dokument sa zahtevima sistema)
+- **[TEHNOLOGIJE.md](TEHNOLOGIJE.md)** – Tehnologije koje se koriste u projektu
+- **[RADNI-NAZIV.md](RADNI-NAZIV.md)** – Diskusija o radnom nazivu političke stranke
+- **[LICENCA.md](LICENCA.md)** – Licenca projekta
 
 ## Cilj projekta:
 
