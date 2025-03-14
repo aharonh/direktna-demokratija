@@ -29,6 +29,7 @@ Komentari protiv predloga su bili:
 - Stranka Studenata koju prave ne-studenti?
 - Da li je ovo ograničeno samo na studente?
 - Možda može škoditi pokretu studenata?
+- Arkonim SS bi mogao biti problematičan zbog istorijskih konotacija
 
 Komentari za predlog su bili:
 - Studenti upravo pozivaju na neki oblik direktne tj neposredne demokratije tako da ima sinergiju sa njima
